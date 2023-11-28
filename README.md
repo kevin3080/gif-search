@@ -4,7 +4,7 @@ Este proyecto es una aplicación web sencilla desarrollada con React y Vite que 
 de Giphy (api.giphy.com) para recuperar una lista de GIFs basada en los términos de búsqueda especificados por el usuario.
 
 
-[DEMO](https://giffappsearch.netlify.app/)<!--target="_blank" rel="noopener noreferrer"-->
+[DEMO](https://giffappsearch.netlify.app/){target="_blank"}
 
 
 ## Características Principales
