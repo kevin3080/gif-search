@@ -3,7 +3,8 @@
 Este proyecto es una aplicación web sencilla desarrollada con React y Vite que permite a los usuarios buscar y explorar GIFs a través de la API de Giphy. La aplicación utiliza la API pública
 de Giphy (api.giphy.com) para recuperar una lista de GIFs basada en los términos de búsqueda especificados por el usuario.
 
-DEMO ----> https://giffappsearch.netlify.app/
+
+[DEMO ---->](https://giffappsearch.netlify.app/){:target="_blank"}
 
 ## Características Principales
 
